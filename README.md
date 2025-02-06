@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 3rd-year BTech student passionate about software development.<br>🌟 Experienced in Django, REST APIs, and authentication systems. <br>👨‍💻 Currently working on expanding my knowledge in backend development and exploring cloud technologies.<br>🛠️ Skills: Python, Django, SQLite, JWT, REST APIs, CSRF, Jinja2 templating. <br>🌱 Eager to collaborate on open-source projects and contribute to impactful solutions.<br>
+🚀 3rd-year BTech student passionate about software development.<br>🌟 Experienced in Django, REST APIs, and authentication systems. <br>👨‍💻 Currently working on expanding my knowledge in backend development and exploring machine learning.<br>🛠️ Skills: Python, Django, SQLite, Jinja2 templating. <br>🌱 Eager to collaborate on open-source projects and contribute to impactful solutions.<br>
 
 
 # 💻 Tech Stack:
