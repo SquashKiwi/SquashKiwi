@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🚀 3rd-year BTech student passionate about software development.<br>
+- 🚀 Final-year BTech student passionate about software development.<br>
 - 🌟 Experienced in ML and Backend. <br>
 - 🌱 Eager to collaborate on open-source projects and contribute to impactful solutions.<br>
 
